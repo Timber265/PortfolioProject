@@ -25,13 +25,13 @@ export default function Header() {
           <nav className={style.socialNav}>
             <ul className="socialLists">
               <li className="socialList">
-                <a className="socialLink" href="https://github.com/Timber265/"><img src="headerIcons/github.svg" alt="gitHub" /></a>
+                <a className="socialLink" href="https://github.com/Timber265/" target="_blank"><img src="headerIcons/github.svg" alt="gitHub" /></a>
               </li>
               <li className="socialList">
-                <a className="socialLink" href="https://www.linkedin.com/in/%D1%82%D0%B8%D0%BC%D0%B0-%D0%B1%D0%B5%D1%80%D1%81%D0%B5%D0%BD%D0%B5%D0%B2-855b092b6/"><img src="headerIcons/Linkedin.svg" alt="linkedIn" /></a>
+                <a className="socialLink" href="https://www.linkedin.com/in/%D1%82%D0%B8%D0%BC%D0%B0-%D0%B1%D0%B5%D1%80%D1%81%D0%B5%D0%BD%D0%B5%D0%B2-855b092b6/" target="_blank"><img src="headerIcons/Linkedin.svg" alt="linkedIn" /></a>
               </li>
               <li className="socialList">
-                <a className="socialLink" href=""><img src="headerIcons/Figma.svg" alt="figma" /></a>
+                <a className="socialLink" href="https://www.figma.com/team_invite/redeem/Bbng6phQVC8FK5RPHIKsfu" target="_blank"><img src="headerIcons/Figma.svg" alt="figma" /></a>
               </li>
             </ul>
           </nav>

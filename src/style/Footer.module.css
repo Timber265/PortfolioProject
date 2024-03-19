@@ -1,0 +1,27 @@
+.footer {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  height:90px;
+  background-color: #0F1624;
+  color: #ffffff;
+}
+.container {
+  height: 100%;
+  max-width: 1470px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.footerContent {
+  height: 100%;
+}
+.footerContent {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.contentNav ul{
+  display: flex;
+  gap: 20px;
+}
