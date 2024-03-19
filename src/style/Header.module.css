@@ -1,0 +1,37 @@
+.header {
+  height: 90px;
+  background-color: #0F1624;
+}
+.container {
+  height: 100%;
+  max-width: 1470px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.headerContent {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #ffffff;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+}
+.headerLogo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.headerNav ul {
+  display: flex;
+  align-items: center;
+  gap: 98px;
+}
+
+.socialNav ul {
+  display: flex;
+  align-items: center;
+  gap: 29px;
+}
